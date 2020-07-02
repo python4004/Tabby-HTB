@@ -33,7 +33,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ![Screenshot from 2020-07-02 01-34-45](https://user-images.githubusercontent.com/36403473/86300983-ecfb3a80-bc04-11ea-81d9-2d1be55f2920.png)
 
-##### Ckeck site very well moving to `news` page founding  paramter `files` 
+##### Ckeck site very well moving to `news` page founding  paramter `file` it maybe vulnerable
 
 ![Screenshot from 2020-07-02 01-33-13](https://user-images.githubusercontent.com/36403473/86301124-4cf1e100-bc05-11ea-906c-1b77164f5826.png)
 
