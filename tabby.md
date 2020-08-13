@@ -1,6 +1,6 @@
 # Hack The Box - Tabby
 
-## This is my writeup and walkthrough for Obscurity from Hack The Box.
+## This is my writeup and walkthrough for tabby from Hack The Box.
 
 
 ![cover](https://user-images.githubusercontent.com/36403473/86299941-cbe51a80-bc01-11ea-801b-3c4a276e6143.jpg)
