@@ -190,5 +190,5 @@ cat flag.txt
 ```
 ![root](https://user-images.githubusercontent.com/36403473/86310532-a1ee2100-bc1e-11ea-8bb1-bf272f231d6c.png)
 
-#### now  we owned machine 
+#### now  i owned machine 
 
