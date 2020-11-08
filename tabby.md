@@ -41,7 +41,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ![Screenshot from 2020-07-02 02-09-29](https://user-images.githubusercontent.com/36403473/86302713-c8ee2800-bc09-11ea-8f35-3453aedf8d99.png)
  
-##### the second step to exploit but i need more information now the role of port `8080`
+##### the second step is to exploit but i need more information now the role of port `8080`
 #####   checking this port `10.10.10.194:8080`
 
 
@@ -57,7 +57,7 @@ i think its very important to see Apache Tomcat 8 docs ,googling and lets try to
 
 ![lfi](https://user-images.githubusercontent.com/36403473/86301222-95110380-bc05-11ea-8f59-d41dbaa6f153.png)
  very good i have `tomcat` password `$3cureP4s5w0rd123!`
-no i can acess `The host-manager` but i dont have any authorization to  upload any shell on this server so lets googling maybe find way.
+now i can acess `The host-manager` but i dont have any authorization to  upload any shell on this server so lets googling maybe find way.
 i found an exploitaion to this server [Tomcat exploitaion](https://www.hackingarticles.in/multiple-ways-to-exploit-tomcat-manager/)
 now from `LFI` we can get `RCE` 
 ### Exploitation
